@@ -30,13 +30,12 @@ GC_TLA와 새로운 전이학습 방법을 공통 ytopt 인터페이스에 연�
 기본 설치와 튜닝은 [ytopt 문서](https://github.com/ytopt-team/ytopt#installation-instructions)를 따릅니다.
 초기 Python 패키지와 튜닝 명령어는 `ytopt` 이름을 유지합니다.
 
-## 연구과제
+## 연구 지원
 
 | 항목 | 내용 |
 | --- | --- |
 | 연구기간 | 2026–2029 |
 | 과제명 | 심층학습 모델을 이용한 전이학습 기반 HPC 애플리케이션 자동 튜닝 프레임워크 개발 |
-| 수행 역할 | 연구책임자 (Principal Investigator) |
 | 지원사업 | 기초연구사업 신진연구 |
 | 지원기관 | 한국연구재단 (National Research Foundation of Korea, NRF) |
 

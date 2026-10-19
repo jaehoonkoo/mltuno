@@ -35,13 +35,12 @@ For baseline installation and tuning, follow the
 [ytopt documentation](https://github.com/ytopt-team/ytopt#installation-instructions).
 The initial Python package and tuning commands retain the `ytopt` name.
 
-## Research project
+## Acknowledgements
 
 | Item | Details |
 | --- | --- |
 | Period | 2026–2029 |
 | Project | Transfer Learning-Based Autotuning Framework Using Deep Neural Networks for HPC Applications |
-| Role | Principal Investigator |
 | Program | Basic Research in Science & Engineering-Young Scientist Grants |
 | Funding agency | National Research Foundation of Korea (NRF) |
 
