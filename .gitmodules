@@ -1,0 +1,3 @@
+[submodule "external/GC_TLA"]
+	path = external/GC_TLA
+	url = https://github.com/tlranda/GC_TLA.git
