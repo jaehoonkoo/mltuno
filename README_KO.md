@@ -1,4 +1,6 @@
-# MLTuno
+<p align="center">
+  <img src="docs/assets/mltuno-logo.png" alt="MLTuno" width="480">
+</p>
 
 [English](README.md) | **한국어**
 
@@ -28,10 +30,20 @@ GC_TLA와 새로운 전이학습 방법을 공통 ytopt 인터페이스에 연�
 기본 설치와 튜닝은 [ytopt 문서](https://github.com/ytopt-team/ytopt#installation-instructions)를 따릅니다.
 초기 Python 패키지와 튜닝 명령어는 `ytopt` 이름을 유지합니다.
 
+## 연구과제
+
+| 항목 | 내용 |
+| --- | --- |
+| 연구기간 | 2026–2029 |
+| 과제명 | 심층학습 모델을 이용한 전이학습 기반 HPC 애플리케이션 자동 튜닝 프레임워크 개발 |
+| 수행 역할 | 연구책임자 (Principal Investigator) |
+| 지원사업 | 기초연구사업 신진연구 |
+| 지원기관 | 한국연구재단 (National Research Foundation of Korea, NRF) |
+
 ## 참고문헌 및 출처
 
 - [ytopt](https://github.com/ytopt-team/ytopt)
-- Randall et al. (2023).
+- Randall, Koo, et al. (2023).
   [Transfer-Learning-Based Autotuning Using Gaussian Copula](https://doi.org/10.1145/3577193.3593712).
   ICS 2023. [코드](https://github.com/tlranda/GC_TLA).
 
@@ -40,3 +52,8 @@ GC_TLA와 새로운 전이학습 방법을 공통 ytopt 인터페이스에 연�
 원본 프로젝트의 BSD-2-Clause 라이선스와 저작권 표기를 유지합니다:
 [ytopt](LICENSE.md),
 [GC_TLA](https://github.com/tlranda/GC_TLA/blob/master/LICENSE.md).
+
+<p>
+  <a href="docs/assets/mltuno-icon.png"><img src="docs/assets/mltuno-icon.png" alt="MLTuno icon" width="28" align="absmiddle"></a>
+  <a href="docs/assets/mltuno-icon.png">아이콘</a> · <a href="docs/assets/mltuno-logo.png">아이콘·글자 조합형</a>
+</p>

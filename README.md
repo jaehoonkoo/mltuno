@@ -1,4 +1,6 @@
-# MLTuno
+<p align="center">
+  <img src="docs/assets/mltuno-logo.png" alt="MLTuno" width="480">
+</p>
 
 **English** | [한국어](README_KO.md)
 
@@ -33,10 +35,20 @@ For baseline installation and tuning, follow the
 [ytopt documentation](https://github.com/ytopt-team/ytopt#installation-instructions).
 The initial Python package and tuning commands retain the `ytopt` name.
 
+## Research project
+
+| Item | Details |
+| --- | --- |
+| Period | 2026–2029 |
+| Project | Transfer Learning-Based Autotuning Framework Using Deep Neural Networks for HPC Applications |
+| Role | Principal Investigator |
+| Program | Basic Research in Science & Engineering-Young Scientist Grants |
+| Funding agency | National Research Foundation of Korea (NRF) |
+
 ## References
 
 - [ytopt](https://github.com/ytopt-team/ytopt)
-- Randall et al. (2023).
+- Randall, Koo, et al. (2023).
   [Transfer-Learning-Based Autotuning Using Gaussian Copula](https://doi.org/10.1145/3577193.3593712).
   ICS 2023. [Code](https://github.com/tlranda/GC_TLA).
 
@@ -45,3 +57,8 @@ The initial Python package and tuning commands retain the `ytopt` name.
 The upstream BSD-2-Clause licenses and copyright notices are retained:
 [ytopt](LICENSE.md) and
 [GC_TLA](https://github.com/tlranda/GC_TLA/blob/master/LICENSE.md).
+
+<p>
+  <a href="docs/assets/mltuno-icon.png"><img src="docs/assets/mltuno-icon.png" alt="MLTuno icon" width="28" align="absmiddle"></a>
+  <a href="docs/assets/mltuno-icon.png">Icon</a> · <a href="docs/assets/mltuno-logo.png">Logo</a>
+</p>
