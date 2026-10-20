@@ -4,7 +4,7 @@
 
 **English** | [한국어](README_KO.md)
 
-**Machine Learning–Based Autotuning**
+**Machine Learning–Based Tuning and Optimization**
 
 MLTuno is a research framework under development for machine-learning-based
 autotuning of applications and computing systems. It builds on
